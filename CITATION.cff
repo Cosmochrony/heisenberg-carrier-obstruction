@@ -9,6 +9,7 @@ authors:
 repository-code: "https://github.com/Cosmochrony/heisenberg-carrier-obstruction"
 url: "https://cosmochrony.org/science/non-injective/heisenberg-carrier-obstruction/"
 version: "1.0.0"
+doi: "10.5281/zenodo.21710123"
 license: "CC-BY-4.0"
 preferred-citation:
   type: article
@@ -18,3 +19,5 @@ preferred-citation:
       given-names: "Jérôme"
       orcid: "https://orcid.org/0009-0001-7697-7868"
   year: 2026
+  doi: "10.5281/zenodo.21710123"
+  url: "https://doi.org/10.5281/zenodo.21710123"
