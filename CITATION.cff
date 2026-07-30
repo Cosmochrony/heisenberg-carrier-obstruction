@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you cite this work, please use the preferred citation below."
+title: "A Finite Countermodel to Heisenberg Carrier Selection from Admissibility Axioms"
+type: article
+authors:
+  - family-names: "Beau"
+    given-names: "Jérôme"
+    orcid: "https://orcid.org/0009-0001-7697-7868"
+repository-code: "https://github.com/Cosmochrony/heisenberg-carrier-obstruction"
+url: "https://cosmochrony.org/science/non-injective/heisenberg-carrier-obstruction/"
+version: "1.0.0"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "A Finite Countermodel to Heisenberg Carrier Selection from Admissibility Axioms"
+  authors:
+    - family-names: "Beau"
+      given-names: "Jérôme"
+      orcid: "https://orcid.org/0009-0001-7697-7868"
+  year: 2026
