@@ -32,6 +32,8 @@ The note also isolates the independent prime-order obstruction: Schur's lemma ma
 through one character on an irreducible complex representation.
 It does not produce the non-trivial eigenspace decomposition used in the published argument.
 
+Preprint: [10.5281/zenodo.21710123](https://doi.org/10.5281/zenodo.21710123).
+
 ## Scope
 
 This is a carrier-selection obstruction, not a refutation of the mathematics developed after a Heisenberg
