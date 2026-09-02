@@ -1,5 +1,8 @@
 cff-version: 1.2.0
-message: "If you cite this work, please use the preferred citation below."
+message: >-
+  This note has no standalone deposit. Its content is published inside
+  "A Finite Obstruction to Heisenberg Carrier Selection from Admissibility Constraints",
+  version 2.1. Please cite that work, given below as the preferred citation.
 title: "A Finite Countermodel to Heisenberg Carrier Selection from Admissibility Axioms"
 type: article
 authors:
@@ -8,16 +11,15 @@ authors:
     orcid: "https://orcid.org/0009-0001-7697-7868"
 repository-code: "https://github.com/Cosmochrony/heisenberg-carrier-obstruction"
 url: "https://cosmochrony.org/science/non-injective/heisenberg-carrier-obstruction/"
-version: "1.0.0"
-doi: "10.5281/zenodo.21710123"
 license: "CC-BY-4.0"
 preferred-citation:
   type: article
-  title: "A Finite Countermodel to Heisenberg Carrier Selection from Admissibility Axioms"
+  title: "A Finite Obstruction to Heisenberg Carrier Selection from Admissibility Constraints"
   authors:
     - family-names: "Beau"
       given-names: "Jérôme"
       orcid: "https://orcid.org/0009-0001-7697-7868"
   year: 2026
-  doi: "10.5281/zenodo.21710123"
-  url: "https://doi.org/10.5281/zenodo.21710123"
+  version: "2.1"
+  doi: "10.5281/zenodo.19635395"
+  url: "https://doi.org/10.5281/zenodo.19635395"
