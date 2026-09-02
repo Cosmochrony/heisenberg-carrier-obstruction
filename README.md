@@ -32,7 +32,16 @@ The note also isolates the independent prime-order obstruction: Schur's lemma ma
 through one character on an irreducible complex representation.
 It does not produce the non-trivial eigenspace decomposition used in the published argument.
 
-Preprint: [10.5281/zenodo.21710123](https://doi.org/10.5281/zenodo.21710123).
+## Publication status
+
+This note has no standalone deposit. Its content is published inside
+*A Finite Obstruction to Heisenberg Carrier Selection from Admissibility Constraints*, version 2.1,
+concept DOI [10.5281/zenodo.19635395](https://doi.org/10.5281/zenodo.19635395), whose repository is
+`heisenberg-structure`. Cite that record.
+
+The former standalone Zenodo record 21710123 was withdrawn and now returns HTTP 410; no link should point at it.
+The website keeps `https://cosmochrony.org/science/non-injective/heisenberg-carrier-obstruction/` as a
+non-indexed signpost that redirects readers to the integrated paper.
 
 ## Scope
 
