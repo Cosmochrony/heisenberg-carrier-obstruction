@@ -5,7 +5,7 @@ sub-programme.
 
 ## Result
 
-The note tests the published implication
+The note tests the earlier published implication
 
 \[
 \text{finite faithful irreducible unitary carrier}
@@ -34,7 +34,9 @@ It does not produce the non-trivial eigenspace decomposition used in the publish
 
 ## Publication status
 
-This note has no standalone deposit. Its content is published inside
+This retired source records the historical selection audit; current Foundation 2.5.1 states non-selection
+and distinguishes the Heisenberg carrier, its Weil action and the supplied spinor doublet.
+No new standalone version or deposit is intended. Its content is published inside
 *A Finite Obstruction to Heisenberg Carrier Selection from Admissibility Constraints*, version 2.1,
 concept DOI [10.5281/zenodo.19635395](https://doi.org/10.5281/zenodo.19635395), whose repository is
 `heisenberg-structure`. Cite that record.
